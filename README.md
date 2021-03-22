@@ -1,6 +1,3 @@
-[![Swift Version][swift-image]][swift-url]
-[![License][license-image]][license-url]
-
 # iOS Mental Practices Browser + player
 Practical test for one Cool Company. You need to relax and set mind waves into positive shape )
 *Now on SwiftUI!*
